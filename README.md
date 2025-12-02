@@ -1,4 +1,5 @@
 # apnaclg-demo
 my first git
 <br>
-auhtor-garima
+auhtor-Garima Mittal
+
